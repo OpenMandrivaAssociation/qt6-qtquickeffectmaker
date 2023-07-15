@@ -42,6 +42,7 @@ BuildRequires:	cmake(Qt%{major}QuickTest)
 BuildRequires:	cmake(Qt%{major}QuickWidgets)
 BuildRequires:	cmake(Qt%{major}Quick)
 BuildRequires:	cmake(Qt%{major}Quick3DGlslParserPrivate)
+BuildRequires:	cmake(Qt%{major}ShaderTools)
 BuildRequires:	qt%{major}-cmake
 BuildRequires:	qt%{major}-qtdeclarative
 BuildRequires:	pkgconfig(gl)
